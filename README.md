@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Live Deployment
+
+- **Frontend:** [https://gift-recommendation-pghx0oval-anubhav-tripathis-projects.vercel.app/](https://gift-recommendation-pghx0oval-anubhav-tripathis-projects.vercel.app/)
+- **Backend API:** [https://fastapi-jr7c9yut9-anubhav-tripathis-projects.vercel.app](https://fastapi-jr7c9yut9-anubhav-tripathis-projects.vercel.app)
+
+## GitHub Repositories
+
+- **Frontend Repository:** [https://github.com/er-anubhav/Gift-Recommendation-Bot](https://github.com/er-anubhav/Gift-Recommendation-Bot)
+- **Backend Repository:** [https://github.com/er-anubhav/fastapi](https://github.com/er-anubhav/fastapi)
+
 ## Getting Started
 
 First, run the development server:
